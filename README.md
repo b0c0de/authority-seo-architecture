@@ -21,7 +21,7 @@ This repository contains battle-tested frameworks and templates developed over *
 ### 🛠 Recommended Automation Tool
 
 Want to automate your internal linking inside WordPress? Check out our open-source plugin:
-* 🔗 **[Auto-Internal Linker for WordPress](https://github.com)** – Lightweight keyword-to-URL internal linking automation.
+* 🔗 **[Auto-Internal Linker for WordPress](https://github.com/b0c0de/auto-internal-linker)** – Lightweight keyword-to-URL internal linking automation.
 
 ---
 
