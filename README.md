@@ -13,6 +13,8 @@ This repository contains battle-tested frameworks and templates developed over *
 * **[01. The Topic Cluster Blueprint](./01-topic-cluster-blueprint.md)** – How to structure Pillar Pages and Supporting Content hubs that dominate competitive niches.
 * **[02. The Internal Linking Matrix](./02-internal-linking-matrix.md)** – Rules and anchor text distribution frameworks to pass link equity without over-optimization.
 * **[03. EEAT & YMYL Checklist for Finance & Affiliate Sites](./03-eeat-finance-affiliate-checklist.md)** – Essential trust, editorial, and structural signals for YMYL, finance, and review websites.
+* **[SEO Content Strategy Frameworks](https://github.com/b0c0de/seo-content-strategy-frameworks)** – Companion repository covering SERP-based content gap analysis and content production workflows.
+
 
 ---
 
