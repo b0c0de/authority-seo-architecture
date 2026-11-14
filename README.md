@@ -10,9 +10,9 @@ This repository contains battle-tested frameworks and templates developed over *
 
 ### 📂 What's Inside This Repository
 
-* **`01-topic-cluster-blueprint.md`** – *(Coming next)* How to structure Pillar Pages and Supporting Content hubs that dominate competitive niches.
-* **`02-internal-linking-matrix.md`** – *(Coming next)* Rules and anchor text distribution frameworks to pass link equity without over-optimization.
-* **`03-eeat-finance-affiliate-checklist.md`** – *(Coming next)* Essential trust, editorial, and structural signals for YMYL, finance, and review websites.
+* **[01. The Topic Cluster Blueprint](./01-topic-cluster-blueprint.md)** – How to structure Pillar Pages and Supporting Content hubs that dominate competitive niches.
+* **[02. The Internal Linking Matrix](./02-internal-linking-matrix.md)** – Rules and anchor text distribution frameworks to pass link equity without over-optimization.
+* **[03. EEAT & YMYL Checklist for Finance & Affiliate Sites](./03-eeat-finance-affiliate-checklist.md)** – Essential trust, editorial, and structural signals for YMYL, finance, and review websites.
 
 ---
 
